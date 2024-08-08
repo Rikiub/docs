@@ -50,6 +50,10 @@ macOS
 Linux
 ~~~~~
 
+- `Syncthing GTK <https://github.com/syncthing-gtk/syncthing-gtk/>`_
+
+  GTK based GUI available in Flatpak.
+
 - `SyncThingy <https://github.com/zocker-160/SyncThingy>`_
 
   Simple tray incidator written in C++ targeted at Flatpak users.
